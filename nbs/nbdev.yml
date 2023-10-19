@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://TowfiqDL.github.io/nbdev_test"
+  description: "For fastai course, I am testing the nbdev auto-package creator module."
+  repo-branch: main
+  repo-url: "https://github.com/TowfiqDL/nbdev_test"
